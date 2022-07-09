@@ -1,0 +1,9 @@
+{
+  "title": "Vishwa's Blog",
+  "siteUrl": "https://vishwa.io/",
+  "description": "A Blog for devs, stuff that matters!",
+  "home": {
+    "title": "Hi! I'm Vishwa Murugan",
+    "description": "I am a full-stack developer, and this is where I write stuff."
+  }
+}
